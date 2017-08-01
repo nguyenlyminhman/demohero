@@ -1,0 +1,12 @@
+{
+  "name": "demohero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nguyenlyminhman/demohero.git",
+  "author": "nguyenlyminhman <nguyenlyminhman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.3"
+  }
+}
